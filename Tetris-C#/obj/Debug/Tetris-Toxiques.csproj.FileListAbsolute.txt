@@ -1,0 +1,33 @@
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.AssemblyReference.cache
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris_Toxiques.Properties.Resources.resources
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.GenerateResource.cache
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.CoreCompileInputs.cache
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.exe.config
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.exe
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.pdb
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris_Toxiques.Form1.resources
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.exe
+C:\Users\enzoc\Documents\B2\C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.pdb
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris_Toxiques.Form1.resources
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris_Toxiques.Properties.Resources.resources
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.GenerateResource.cache
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.CoreCompileInputs.cache
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.exe
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.pdb
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.exe.config
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.exe
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.pdb
+C:\Users\enzoc\Documents\» B2\¹  Cours\→  C#\Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.AssemblyReference.cache
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.exe.config
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.exe
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\bin\Debug\Tetris-Toxiques.pdb
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.AssemblyReference.cache
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\obj\Debug\Tetris_Toxiques.Form1.resources
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\obj\Debug\Tetris_Toxiques.Properties.Resources.resources
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.GenerateResource.cache
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.csproj.CoreCompileInputs.cache
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.exe
+C:\Users\enzoc\Documents\» B2\²  Contrôles\→  C#\Soutenance Tetris\Tetris-Toxiques\obj\Debug\Tetris-Toxiques.pdb
